@@ -1,0 +1,8 @@
+starting notes:
+
+  cd sugar_website
+  npm install
+  npm run dev
+
+to run vite:
+  npm run dev
